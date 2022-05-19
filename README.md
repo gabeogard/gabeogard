@@ -6,7 +6,7 @@
 - Check out my starred repos to see some of the cool things I've built.  
 - Love working with Mobile Development and Backend Development
 
-===============================================================
+--------------------------------------------------------------------------
 
 **Tech I currently / have worked with:**
 
