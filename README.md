@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - Check out my starred repos to see some of the cool things I've built.  
 - Love working with Mobile Development and Backend Development
 
-=========================================================================================================================================
+===============================================================
 
 [![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabeogard)](https://github.com/gabeogard/github-readme-stats)
