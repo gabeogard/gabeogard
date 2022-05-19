@@ -4,7 +4,7 @@
 
 - Currently enrolled in Kristiania University College's Bachelors Program in IT with a specialization in Frontend and Mobile Development.
 - Check out my starred repos to see some of the cool things I've built.  
-- Love working with Mobile Development and Backend Development
+- Enjoy working with Mobile Development and Backend Development
 
 --------------------------------------------------------------------------
 
