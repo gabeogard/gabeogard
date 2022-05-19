@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - Currently enrolled in Kristiania University College's Bachelors Program in IT with a specialization in Frontend and Mobile Development.
 - Check out my starred repos to see some of the cool things I've built.  
-- Focusing my time towards Mobile and Backend Development. 
+- Love working with Mobile Development and Backend Development
+
+=========================================================================================================================================
 
 [![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabeogard)](https://github.com/gabeogard/github-readme-stats)
