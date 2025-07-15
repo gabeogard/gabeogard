@@ -1,2 +1,1 @@
-Hello there, pretty blank still -
-For now 
+I sometimes write code.
